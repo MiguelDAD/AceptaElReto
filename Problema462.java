@@ -1,3 +1,5 @@
+//Mundo limpio
+
 import java.util.Scanner;
 
 public class Problema462 {
