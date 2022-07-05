@@ -15,7 +15,7 @@ En resumen, soluciones de Acepta el Reto.
 1. En terminos de velocidad he notado que printf es más lentos que println
 
 ## Ejercicios que no son propios 
-> *Ejercicios que no he conseguido resolverlos por ahora*
+> *Ejercicios que no he conseguido resolverlos por ahora, debido a esto no serán publicado en mi perfil*
 
 - Problema591 (Desafio de la semana 04-07-22 resultado obtenido del repositorio de [MiYazJe](https://github.com/MiYazJE/Acepta-el-reto/blob/master/p591.java))
 
