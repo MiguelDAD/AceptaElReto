@@ -17,5 +17,5 @@ En resumen, soluciones de Acepta el Reto.
 ## Ejercicios que no son propios 
 > *Ejercicios que no he conseguido resolverlos por ahora*
 
-- Problema591 (Desafio de la semana 04-07-22) resultado obtenido del repositorio de [MiYazJe](https://github.com/MiYazJE/Acepta-el-reto/blob/master/p591.java)
+- Problema591 (Desafio de la semana 04-07-22 resultado obtenido del repositorio de [MiYazJe](https://github.com/MiYazJE/Acepta-el-reto/blob/master/p591.java))
 
